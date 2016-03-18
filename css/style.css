@@ -87,7 +87,7 @@ p a:hover {
 	text-align: center;
 }
 #body h1 {
-	color: #ff8;
+	color: #fff;
 	display: inline;
 	font-family: poller_oneregular;
 	font-size: 35px;
@@ -168,6 +168,7 @@ p a:hover {
 	padding: 60px 0 150px;
 	opacity: 0.5;
 	transition: 0.5s ease-in-out;
+	width:250px;
 }
 #body div ul li .figure:hover img {
 	opacity: 1;
